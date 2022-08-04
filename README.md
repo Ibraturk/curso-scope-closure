@@ -1,2 +1,2 @@
-# curso-scope-closure
-Curso de Closures y Scope en JavaScript - Dictado por @gndxdev @platzi
+# Curso de Closures y Scope en JavaScript
+ Dictado por @gndxdev @platzi
